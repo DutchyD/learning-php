@@ -1,6 +1,8 @@
 # Entire .idea folder - Personal addition
 .idea
 
+*.iml
+
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains+all,macos,windows,linux,archlinuxpackages,phpunit,composer,laravel,visualstudiocode,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all,macos,windows,linux,archlinuxpackages,phpunit,composer,laravel,visualstudiocode,visualstudio
 
